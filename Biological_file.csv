@@ -1,0 +1,4 @@
+state,fy_declared,incident_type,declaration_title,datemonth,incident_end_date,disaster_closeout_date,last_refresh
+FL,2020,Biological,Covid-19,202001,,2020-05-28T00:00:00Z,2023-03-18T13:22:03Z
+FL,2020,Biological,Covid-19,202001,,2020-04-21T00:00:00Z,2023-03-18T13:22:03Z
+FL,2020,Biological,Covid-19 Pandemic,202001,,,2023-03-18T13:22:03Z
